@@ -9,9 +9,9 @@ El curso abarca los siguientes contenidos:
 
 Para contenido vas a encontrar 2 carpetas y un archivo:
 
-* El archivo con los apuntes de las clases y/o contenido traducido al español de la clase en el archivo llamado **class_nombreContenido**
+* El archivo con los apuntes de las clases y/o contenido traducido al español de la clase en el archivo llamado **class_nombreContenido**, como ejemplo tenemos el archivo class_OOP.ipynb para la de programación orientada a objetos
+* * Los ejercicios que vienen hechos como ejemplo de la clase + los ejercicios que debes completar código en la carpeta llamada **numero.contenido.clase**, como ejemplo tenemos la carpeta 1.OOP_syntax_shirt_practice
 * Los ejercicios en los que yo he agregado código o que he hecho el código de 0 en la carpeta llamada **my_work**
-* Los ejercicios que vienen hechos como ejemplo de la clase en la carpeta llamada **exercises**
 
 
 Cualquier comentario con el objetivo de corregir y/o mejorar el contenido entregado será muy bien recibido e intentaré contestar en un máximo de 72 horas hábiles.
